@@ -1,2 +1,1 @@
-SENTRIX-DEV-0000-0000-0000:ZylerX:*:-1:-1:enterprise
 SENTRIX-B6FD-6326-C1AE:founder:*:-1:-1:enterprise
